@@ -1,0 +1,20 @@
+<!ELEMENT dojo (keiko+)>
+
+<!ELEMENT keiko (nombre, (renshu | renraku | kumite)+)>
+<!ELEMENT nombre (#PCDATA)>
+
+<!ELEMENT renshu (kaisuu, kihon)>
+<!ELEMENT kaisuu (#PCDATA)> 
+
+<!ELEMENT renraku (nombre_combinacion, secuencia_tecnicas)>
+<!ELEMENT nombre_combinacion (#PCDATA)>
+<!ELEMENT secuencia_tecnicas (kihon+)>
+
+<!ELEMENT kumite (tipo_combate, duracion, enfoque)>
+<!ELEMENT tipo_combate (#PCDATA)> <!ELEMENT duracion (#PCDATA)>
+<!ELEMENT enfoque (#PCDATA)>
+
+<!ELEMENT kihon (waza_nombre, dachi, height)>
+<!ELEMENT waza_nombre (#PCDATA)> 
+<!ELEMENT dachi (#PCDATA)> 
+<!ELEMENT height (#PCDATA)>

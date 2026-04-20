@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dojo SYSTEM "IFK-00.dtd">
+
+<dojo>
+    <keiko>
+        <nombre>Preparacion para Examen de Grado IFK</nombre>
+
+        <renraku>
+            <nombre_combinacion>Renraku No. 1</nombre_combinacion>
+            <secuencia_tecnicas>
+                <kihon>
+                    <waza_nombre>Seiken-Tsuki</waza_nombre>
+                    <dachi>Zenkutsu-Dachi</dachi>
+                    <height>Chudan</height>
+                </kihon>
+                <kihon>
+                    <waza_nombre>Mae-Geri</waza_nombre>
+                    <dachi>Zenkutsu-Dachi</dachi>
+                    <height>Chudan</height>
+                </kihon>
+            </secuencia_tecnicas>
+        </renraku>
+
+        <kumite>
+            <tipo_combate>Jiyu Kumite</tipo_combate>
+            <duracion>2 minutos</duracion>
+            <enfoque>Resistencia y contacto</enfoque>
+        </kumite>
+
+        <renshu>
+            <kaisuu>100</kaisuu>
+            <kihon>
+                <waza_nombre>Seiken Jodan-Uke</waza_nombre>
+                <dachi>Sanchin-Dachi</dachi>
+                <height>Jodan</height>
+            </kihon>
+        </renshu>
+    </keiko>
+</dojo>

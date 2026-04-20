@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCTYPE Direccion SYSTEM "xml-00.dtd">
+<direccion>
+    <nombrecompleto>
+        <nombre>aradan </nombre>
+        <apellidos> S R</apellido>
+    </nombrecompleto>
+    <correo>aradanschwartz.@gmailcom</correo>
+    <telefono>5548073951</telefono>
+    <cumple>
+        <dia>21</dia>
+        <mes>1</mes>
+        <anio>2003</anio>
+    </cumple>
+</direccion>
