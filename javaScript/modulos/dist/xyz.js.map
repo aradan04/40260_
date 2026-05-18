@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../XYZ.js"],
+  "sourcesContent": ["import * as miModulo from\"./X.js\"\r\nimport{y} from \"./Y.js\"\r\nimport{z} from \"./Z.js\"\r\n\r\nconsole.log(x(\"abc\"))\r\nconsole.log(x(\"def\"))\r\nconsole.log(x(\"ghi\"))\r\nconsole.log(x(\"jkl\"))"],
+  "mappings": "MAIA,QAAQ,IAAI,EAAE,KAAK,CAAC,EACpB,QAAQ,IAAI,EAAE,KAAK,CAAC,EACpB,QAAQ,IAAI,EAAE,KAAK,CAAC,EACpB,QAAQ,IAAI,EAAE,KAAK,CAAC",
+  "names": []
+}
