@@ -4,3 +4,6 @@
 [submodule "poema-40260"]
 	path = poema-40260
 	url = https://github.com/aradan04/poema-40260.git
+[submodule "starwars"]
+	path = starwars
+	url = https://github.com/aradan04/starwars.git
