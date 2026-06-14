@@ -1,0 +1,13 @@
+img{
+    box-shadow: 10px 10px 20px blue;
+    border-radius: 100px;
+}
+
+figure{
+    text-align: center;
+    width: 300px;
+    display: inline-block;
+}
+img.redonda{
+    border-radius: 10px 40px 30px 70px;
+}
